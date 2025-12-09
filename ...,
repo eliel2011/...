@@ -1,0 +1,21 @@
+index.html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mi Página</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hola, mundo</h1>
+
+  <!-- SVG de opciones -->
+  <svg aria-label="Opciones" fill="currentColor" width="32" height="32" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="1.5"></circle>
+    <circle cx="6" cy="12" r="1.5"></circle>
+    <circle cx="18" cy="12" r="1.5"></circle>
+  </svg>
+</body>
+</html>
+Agregar index.html
